@@ -1,0 +1,14 @@
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\bin\Debug\net6.0\LinearSearchingAlgorithm.exe
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\bin\Debug\net6.0\LinearSearchingAlgorithm.deps.json
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\bin\Debug\net6.0\LinearSearchingAlgorithm.runtimeconfig.json
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\bin\Debug\net6.0\LinearSearchingAlgorithm.dll
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\bin\Debug\net6.0\LinearSearchingAlgorithm.pdb
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.AssemblyInfoInputs.cache
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.AssemblyInfo.cs
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.csproj.CoreCompileInputs.cache
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.dll
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\refint\LinearSearchingAlgorithm.dll
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.pdb
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\LinearSearchingAlgorithm.genruntimeconfig.cache
+F:\DSA\Algorithms\SearchingAlgorithm\Linear Search\obj\Debug\net6.0\ref\LinearSearchingAlgorithm.dll
